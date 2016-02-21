@@ -3,5 +3,15 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GoogleTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LocalBusv1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ManaPizza" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ManaPizza1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ManaPizza2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ManaPizzaGithub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RestaurantToGo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TuxBus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/manapizzarepo2" vcs="Git" />
   </component>
 </project>

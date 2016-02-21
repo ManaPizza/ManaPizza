@@ -3,7 +3,7 @@
     <string name="cadena">My cadena</string>
     <string name="imagenview">imagenbus</string>
     <string name="domicilio">domicilio</string>
-    <string name="pedidos">Pedidos</string>
+    <astring name="pedidos">Pedidoass</astring>
     <string name="enc_suc">Encontrar sucursal</string>
     <string name="title_activity_localizar_pedido">Mapas</string>
 </resources>
