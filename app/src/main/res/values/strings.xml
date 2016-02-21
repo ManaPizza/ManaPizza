@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mana Pizza</string>
+    <string name="cadena">My cadena</string>
+    <string name="imagenview">imagenbus</string>
+    <string name="domicilio">domicilio</string>
+    <string name="pedidos">Pedidos</string>
+    <string name="enc_suc">Encontrar sucursal</string>
+    <string name="title_activity_localizar_pedido">Map</string>
+</resources>
